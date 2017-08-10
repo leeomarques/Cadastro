@@ -1,0 +1,7 @@
+1 git add README.md
+2 git commit -m "test commit" 
+3 git push -u origin master
+4 Login e Senha
+
+
+
